@@ -1,0 +1,501 @@
+FIRST NAME,LAST NAME,SEX,DOJ,CURRENT DATE,DESIGNATION,AGE,SALARY,UNIT,LEAVES USED,LEAVES REMAINING,RATINGS,YEARS EXPERIENCE
+Employee,0,M,2020-01-01,2024-01-01,Senior Analyst,28,54630,Marketing,7,6,3.7,7
+Employee,1,F,2020-01-01,2024-01-01,Analyst,40,78868,IT,19,5,4.5,20
+Employee,2,M,2020-01-01,2024-01-01,Senior Analyst,38,94583,Finance,12,4,4.3,15
+Employee,3,M,2020-01-01,2024-01-01,Manager,33,95688,Finance,16,12,3.7,11
+Employee,4,F,2020-01-01,2024-01-01,Director,31,105968,Marketing,16,3,1.4,8
+Employee,5,F,2020-01-01,2024-01-01,Analyst,44,86236,Marketing,16,2,2.2,21
+Employee,6,M,2020-01-01,2024-01-01,Analyst,28,48165,HR,0,2,2.2,7
+Employee,7,M,2020-01-01,2024-01-01,Analyst,41,81502,Marketing,7,5,2.0,19
+Employee,8,F,2020-01-01,2024-01-01,Analyst,46,85406,HR,18,14,3.1,23
+Employee,9,F,2020-01-01,2024-01-01,Analyst,31,51711,Finance,5,3,3.1,11
+Employee,10,M,2020-01-01,2024-01-01,Senior Analyst,31,80755,Finance,2,11,2.4,11
+Employee,11,F,2020-01-01,2024-01-01,Director,48,158050,IT,4,11,2.4,24
+Employee,12,F,2020-01-01,2024-01-01,Manager,43,118182,Finance,12,5,4.3,21
+Employee,13,F,2020-01-01,2024-01-01,Manager,26,65274,HR,14,2,4.2,4
+Employee,14,M,2020-01-01,2024-01-01,Manager,32,83938,Marketing,13,14,2.2,8
+Employee,15,M,2020-01-01,2024-01-01,Manager,47,128575,IT,15,3,4.7,24
+Employee,16,M,2020-01-01,2024-01-01,Senior Analyst,25,44289,HR,17,14,4.8,3
+Employee,17,F,2020-01-01,2024-01-01,Senior Manager,42,127476,Marketing,10,8,2.3,22
+Employee,18,F,2020-01-01,2024-01-01,Director,41,154022,IT,2,4,2.4,21
+Employee,19,M,2020-01-01,2024-01-01,Analyst,23,30000,Finance,9,12,3.0,2
+Employee,20,M,2020-01-01,2024-01-01,Senior Manager,46,148519,HR,9,6,4.8,24
+Employee,21,M,2020-01-01,2024-01-01,Manager,35,78230,Marketing,15,9,4.5,12
+Employee,22,F,2020-01-01,2024-01-01,Senior Manager,30,95536,IT,11,1,1.4,6
+Employee,23,M,2020-01-01,2024-01-01,Director,26,94851,IT,1,13,2.6,2
+Employee,24,M,2020-01-01,2024-01-01,Analyst,44,94473,Finance,8,13,3.2,21
+Employee,25,F,2020-01-01,2024-01-01,Analyst,22,30000,Marketing,2,4,3.0,1
+Employee,26,F,2020-01-01,2024-01-01,Director,36,125920,Finance,14,8,1.8,12
+Employee,27,F,2020-01-01,2024-01-01,Director,44,164538,Finance,2,10,4.4,22
+Employee,28,M,2020-01-01,2024-01-01,Manager,33,93391,Marketing,18,2,3.7,12
+Employee,29,F,2020-01-01,2024-01-01,Analyst,39,72744,Marketing,17,13,4.4,17
+Employee,30,F,2020-01-01,2024-01-01,Senior Manager,30,104745,Marketing,7,8,4.4,10
+Employee,31,M,2020-01-01,2024-01-01,Senior Analyst,37,89611,HR,16,13,4.0,16
+Employee,32,F,2020-01-01,2024-01-01,Senior Analyst,39,81880,Marketing,7,10,2.8,15
+Employee,33,M,2020-01-01,2024-01-01,Director,36,124316,IT,6,14,3.4,15
+Employee,34,M,2020-01-01,2024-01-01,Manager,40,119578,Finance,6,5,1.6,19
+Employee,35,F,2020-01-01,2024-01-01,Senior Analyst,33,78859,HR,2,3,3.7,12
+Employee,36,F,2020-01-01,2024-01-01,Analyst,44,95595,Marketing,0,6,1.7,23
+Employee,37,F,2020-01-01,2024-01-01,Director,42,129724,HR,3,7,3.8,20
+Employee,38,F,2020-01-01,2024-01-01,Senior Manager,23,72277,Marketing,4,5,1.9,3
+Employee,39,F,2020-01-01,2024-01-01,Director,28,101517,HR,0,4,1.5,5
+Employee,40,F,2020-01-01,2024-01-01,Senior Manager,40,117392,Finance,14,5,1.7,19
+Employee,41,M,2020-01-01,2024-01-01,Director,31,104464,Finance,4,4,1.0,7
+Employee,42,M,2020-01-01,2024-01-01,Director,42,143672,IT,12,7,3.9,21
+Employee,43,F,2020-01-01,2024-01-01,Director,33,110459,IT,7,0,3.9,9
+Employee,44,M,2020-01-01,2024-01-01,Senior Manager,29,91319,Marketing,7,10,3.1,7
+Employee,45,F,2020-01-01,2024-01-01,Senior Manager,42,127602,Finance,4,6,1.6,18
+Employee,46,M,2020-01-01,2024-01-01,Director,27,94027,HR,8,14,1.3,4
+Employee,47,M,2020-01-01,2024-01-01,Senior Analyst,34,81863,HR,0,9,1.1,14
+Employee,48,M,2020-01-01,2024-01-01,Manager,42,105396,HR,3,9,1.7,18
+Employee,49,F,2020-01-01,2024-01-01,Manager,33,87419,IT,2,10,4.6,9
+Employee,50,M,2020-01-01,2024-01-01,Manager,41,123025,HR,1,1,2.0,21
+Employee,51,F,2020-01-01,2024-01-01,Senior Manager,25,68905,IT,7,14,2.4,2
+Employee,52,M,2020-01-01,2024-01-01,Senior Manager,41,130741,IT,8,13,1.4,20
+Employee,53,M,2020-01-01,2024-01-01,Senior Analyst,39,83982,Marketing,1,8,1.9,15
+Employee,54,M,2020-01-01,2024-01-01,Manager,27,73918,HR,13,0,3.1,7
+Employee,55,M,2020-01-01,2024-01-01,Manager,34,90833,HR,13,10,3.4,12
+Employee,56,M,2020-01-01,2024-01-01,Director,28,109989,Finance,3,9,2.0,8
+Employee,57,F,2020-01-01,2024-01-01,Senior Manager,37,119395,Marketing,5,5,1.2,15
+Employee,58,F,2020-01-01,2024-01-01,Manager,26,65090,Finance,10,8,2.6,3
+Employee,59,M,2020-01-01,2024-01-01,Senior Analyst,35,80705,Marketing,2,0,1.9,14
+Employee,60,M,2020-01-01,2024-01-01,Senior Analyst,37,97529,HR,7,3,1.9,17
+Employee,61,M,2020-01-01,2024-01-01,Manager,28,70951,IT,2,3,4.8,4
+Employee,62,M,2020-01-01,2024-01-01,Senior Manager,41,115745,IT,13,14,3.5,18
+Employee,63,F,2020-01-01,2024-01-01,Senior Analyst,28,70717,IT,12,8,3.2,8
+Employee,64,M,2020-01-01,2024-01-01,Director,28,101712,IT,12,10,2.7,4
+Employee,65,F,2020-01-01,2024-01-01,Senior Analyst,22,43441,IT,1,4,2.7,2
+Employee,66,M,2020-01-01,2024-01-01,Analyst,28,45012,Finance,12,4,3.2,6
+Employee,67,F,2020-01-01,2024-01-01,Analyst,42,89008,Marketing,18,5,3.8,22
+Employee,68,M,2020-01-01,2024-01-01,Senior Manager,30,96690,HR,5,0,3.8,10
+Employee,69,M,2020-01-01,2024-01-01,Manager,24,66461,Finance,15,0,1.7,4
+Employee,70,F,2020-01-01,2024-01-01,Senior Manager,45,138511,Marketing,1,14,3.0,22
+Employee,71,M,2020-01-01,2024-01-01,Senior Manager,38,121073,IT,7,8,2.6,18
+Employee,72,M,2020-01-01,2024-01-01,Senior Manager,36,110507,Marketing,16,2,4.5,12
+Employee,73,M,2020-01-01,2024-01-01,Senior Manager,24,78305,Marketing,1,3,3.5,2
+Employee,74,F,2020-01-01,2024-01-01,Director,32,111178,IT,9,0,3.1,10
+Employee,75,M,2020-01-01,2024-01-01,Director,24,104764,IT,15,8,1.5,4
+Employee,76,M,2020-01-01,2024-01-01,Senior Analyst,37,81402,IT,5,14,3.4,14
+Employee,77,F,2020-01-01,2024-01-01,Analyst,39,79740,HR,1,7,1.5,16
+Employee,78,F,2020-01-01,2024-01-01,Senior Manager,39,118897,IT,1,1,2.3,15
+Employee,79,F,2020-01-01,2024-01-01,Senior Analyst,28,54325,HR,12,7,1.6,8
+Employee,80,M,2020-01-01,2024-01-01,Analyst,36,69546,IT,14,14,3.8,14
+Employee,81,M,2020-01-01,2024-01-01,Manager,46,113689,HR,1,6,1.8,23
+Employee,82,M,2020-01-01,2024-01-01,Director,28,118857,Marketing,6,10,2.6,8
+Employee,83,F,2020-01-01,2024-01-01,Analyst,44,101141,Finance,2,5,4.6,21
+Employee,84,M,2020-01-01,2024-01-01,Manager,39,105374,Marketing,7,0,1.8,16
+Employee,85,M,2020-01-01,2024-01-01,Analyst,35,53215,Marketing,13,14,3.0,13
+Employee,86,F,2020-01-01,2024-01-01,Director,39,148317,IT,6,6,2.7,18
+Employee,87,F,2020-01-01,2024-01-01,Director,39,145230,HR,6,9,1.1,15
+Employee,88,F,2020-01-01,2024-01-01,Senior Analyst,45,102484,Finance,0,6,4.2,21
+Employee,89,F,2020-01-01,2024-01-01,Senior Manager,46,140826,IT,16,12,1.3,24
+Employee,90,F,2020-01-01,2024-01-01,Analyst,36,62057,IT,8,13,2.9,13
+Employee,91,M,2020-01-01,2024-01-01,Analyst,29,55560,IT,12,8,3.2,9
+Employee,92,F,2020-01-01,2024-01-01,Manager,38,105345,Marketing,18,0,3.5,15
+Employee,93,M,2020-01-01,2024-01-01,Director,35,129488,HR,18,1,3.8,13
+Employee,94,M,2020-01-01,2024-01-01,Analyst,25,46709,HR,16,10,2.0,1
+Employee,95,F,2020-01-01,2024-01-01,Director,30,104165,Finance,9,8,1.0,7
+Employee,96,F,2020-01-01,2024-01-01,Analyst,33,40846,HR,9,12,3.9,9
+Employee,97,F,2020-01-01,2024-01-01,Senior Analyst,44,116854,HR,3,8,3.1,24
+Employee,98,M,2020-01-01,2024-01-01,Senior Manager,25,58917,IT,7,12,4.3,1
+Employee,99,F,2020-01-01,2024-01-01,Analyst,36,61334,IT,19,5,4.3,12
+Employee,100,F,2020-01-01,2024-01-01,Director,29,117121,Marketing,19,5,4.4,8
+Employee,101,F,2020-01-01,2024-01-01,Senior Analyst,45,113625,IT,17,3,2.9,24
+Employee,102,F,2020-01-01,2024-01-01,Analyst,32,61897,IT,13,3,2.3,11
+Employee,103,F,2020-01-01,2024-01-01,Manager,43,123103,IT,17,4,4.2,19
+Employee,104,M,2020-01-01,2024-01-01,Senior Manager,39,120647,IT,13,2,2.8,17
+Employee,105,M,2020-01-01,2024-01-01,Analyst,32,56309,Marketing,19,0,1.7,8
+Employee,106,M,2020-01-01,2024-01-01,Senior Analyst,25,51646,IT,14,14,4.4,3
+Employee,107,F,2020-01-01,2024-01-01,Manager,25,65900,Finance,3,0,4.5,3
+Employee,108,F,2020-01-01,2024-01-01,Senior Analyst,22,36913,Finance,12,11,2.9,1
+Employee,109,F,2020-01-01,2024-01-01,Senior Analyst,28,56589,Finance,7,14,1.3,5
+Employee,110,M,2020-01-01,2024-01-01,Manager,30,78012,Finance,17,12,2.6,10
+Employee,111,F,2020-01-01,2024-01-01,Senior Analyst,28,58523,IT,11,6,4.2,7
+Employee,112,F,2020-01-01,2024-01-01,Manager,30,83952,Finance,13,0,4.6,9
+Employee,113,F,2020-01-01,2024-01-01,Analyst,30,39449,IT,1,0,1.8,7
+Employee,114,M,2020-01-01,2024-01-01,Manager,29,96245,Marketing,17,2,1.3,9
+Employee,115,F,2020-01-01,2024-01-01,Manager,32,77390,Finance,1,9,4.5,8
+Employee,116,M,2020-01-01,2024-01-01,Senior Manager,36,106288,HR,10,14,2.6,12
+Employee,117,F,2020-01-01,2024-01-01,Manager,23,66848,Finance,8,3,3.2,2
+Employee,118,M,2020-01-01,2024-01-01,Manager,21,50855,Finance,11,3,4.9,1
+Employee,119,M,2020-01-01,2024-01-01,Analyst,37,71817,IT,16,1,1.3,16
+Employee,120,M,2020-01-01,2024-01-01,Senior Manager,45,137415,Finance,14,0,3.6,23
+Employee,121,F,2020-01-01,2024-01-01,Director,44,158793,HR,16,2,1.3,23
+Employee,122,F,2020-01-01,2024-01-01,Analyst,45,93706,IT,17,10,2.5,24
+Employee,123,M,2020-01-01,2024-01-01,Analyst,29,38315,IT,5,3,4.2,5
+Employee,124,M,2020-01-01,2024-01-01,Director,27,99646,Marketing,16,2,2.7,3
+Employee,125,F,2020-01-01,2024-01-01,Manager,36,91974,Marketing,17,7,5.0,12
+Employee,126,F,2020-01-01,2024-01-01,Senior Analyst,30,59093,Finance,7,13,3.2,8
+Employee,127,M,2020-01-01,2024-01-01,Senior Manager,46,129522,Marketing,8,9,2.3,22
+Employee,128,F,2020-01-01,2024-01-01,Senior Analyst,23,48166,Marketing,5,0,1.9,3
+Employee,129,F,2020-01-01,2024-01-01,Director,24,94641,Marketing,4,13,2.4,1
+Employee,130,F,2020-01-01,2024-01-01,Analyst,23,36280,IT,11,1,2.5,3
+Employee,131,F,2020-01-01,2024-01-01,Analyst,25,44981,IT,10,12,1.3,5
+Employee,132,M,2020-01-01,2024-01-01,Senior Manager,39,117385,IT,0,6,2.5,15
+Employee,133,F,2020-01-01,2024-01-01,Analyst,37,55615,Marketing,10,3,2.9,14
+Employee,134,F,2020-01-01,2024-01-01,Analyst,26,34237,IT,18,7,3.9,3
+Employee,135,M,2020-01-01,2024-01-01,Senior Manager,24,83252,Marketing,8,10,3.6,1
+Employee,136,M,2020-01-01,2024-01-01,Senior Manager,27,91626,IT,1,12,3.8,5
+Employee,137,F,2020-01-01,2024-01-01,Director,47,157110,IT,11,2,1.0,23
+Employee,138,F,2020-01-01,2024-01-01,Analyst,37,61703,HR,3,5,1.9,14
+Employee,139,F,2020-01-01,2024-01-01,Analyst,29,51387,Finance,3,8,3.6,7
+Employee,140,F,2020-01-01,2024-01-01,Director,30,116698,Marketing,17,0,2.9,9
+Employee,141,M,2020-01-01,2024-01-01,Manager,36,97731,HR,14,0,1.0,15
+Employee,142,M,2020-01-01,2024-01-01,Manager,37,98583,IT,18,7,4.2,15
+Employee,143,M,2020-01-01,2024-01-01,Manager,32,94548,Marketing,12,2,4.1,10
+Employee,144,F,2020-01-01,2024-01-01,Director,37,122713,IT,18,4,3.2,13
+Employee,145,F,2020-01-01,2024-01-01,Analyst,43,79708,Finance,16,0,1.3,19
+Employee,146,F,2020-01-01,2024-01-01,Director,28,113463,HR,5,4,4.1,7
+Employee,147,F,2020-01-01,2024-01-01,Director,40,137287,Finance,15,10,3.3,17
+Employee,148,M,2020-01-01,2024-01-01,Manager,41,119144,HR,11,5,4.1,20
+Employee,149,M,2020-01-01,2024-01-01,Senior Analyst,27,52848,IT,18,7,4.0,4
+Employee,150,F,2020-01-01,2024-01-01,Analyst,28,40161,Finance,4,12,4.2,5
+Employee,151,M,2020-01-01,2024-01-01,Manager,47,124160,Finance,16,13,3.1,23
+Employee,152,F,2020-01-01,2024-01-01,Senior Analyst,27,53289,IT,0,2,1.6,7
+Employee,153,F,2020-01-01,2024-01-01,Senior Analyst,33,79748,Finance,9,2,3.7,13
+Employee,154,M,2020-01-01,2024-01-01,Senior Manager,37,115513,Marketing,14,11,3.5,15
+Employee,155,F,2020-01-01,2024-01-01,Analyst,35,57197,HR,10,10,4.0,11
+Employee,156,F,2020-01-01,2024-01-01,Senior Analyst,27,64340,HR,12,10,1.7,4
+Employee,157,M,2020-01-01,2024-01-01,Manager,33,81539,HR,4,9,1.8,13
+Employee,158,F,2020-01-01,2024-01-01,Senior Manager,30,87262,Marketing,0,8,4.6,7
+Employee,159,F,2020-01-01,2024-01-01,Analyst,39,78311,HR,11,3,4.0,19
+Employee,160,M,2020-01-01,2024-01-01,Director,42,144498,IT,10,14,4.6,22
+Employee,161,F,2020-01-01,2024-01-01,Manager,22,60785,Finance,16,3,4.0,2
+Employee,162,M,2020-01-01,2024-01-01,Senior Analyst,34,66367,Marketing,3,11,3.4,10
+Employee,163,F,2020-01-01,2024-01-01,Senior Analyst,34,85763,HR,14,6,3.6,13
+Employee,164,M,2020-01-01,2024-01-01,Manager,44,116264,IT,8,1,4.6,21
+Employee,165,M,2020-01-01,2024-01-01,Senior Analyst,30,59817,Finance,19,7,3.3,6
+Employee,166,M,2020-01-01,2024-01-01,Senior Manager,36,102825,Finance,18,5,3.5,12
+Employee,167,F,2020-01-01,2024-01-01,Analyst,36,57545,Marketing,18,2,1.6,12
+Employee,168,M,2020-01-01,2024-01-01,Senior Manager,44,142361,Marketing,11,8,2.9,20
+Employee,169,M,2020-01-01,2024-01-01,Senior Analyst,35,75614,Marketing,4,4,3.9,11
+Employee,170,M,2020-01-01,2024-01-01,Director,45,147658,IT,9,7,2.1,23
+Employee,171,M,2020-01-01,2024-01-01,Analyst,30,38129,IT,16,6,1.8,7
+Employee,172,M,2020-01-01,2024-01-01,Analyst,25,33213,Marketing,4,13,2.3,1
+Employee,173,F,2020-01-01,2024-01-01,Manager,24,57400,HR,15,7,2.0,1
+Employee,174,F,2020-01-01,2024-01-01,Manager,42,105754,Finance,6,6,1.9,20
+Employee,175,F,2020-01-01,2024-01-01,Director,35,128228,Finance,8,2,2.7,13
+Employee,176,F,2020-01-01,2024-01-01,Analyst,32,51845,IT,2,1,4.6,9
+Employee,177,F,2020-01-01,2024-01-01,Director,23,92257,Finance,14,6,3.0,3
+Employee,178,F,2020-01-01,2024-01-01,Manager,28,82047,HR,15,2,1.8,7
+Employee,179,F,2020-01-01,2024-01-01,Manager,26,66450,Finance,17,2,1.3,6
+Employee,180,M,2020-01-01,2024-01-01,Analyst,28,44842,IT,13,1,3.8,8
+Employee,181,F,2020-01-01,2024-01-01,Senior Manager,29,104904,IT,2,3,2.5,9
+Employee,182,M,2020-01-01,2024-01-01,Senior Analyst,29,48814,HR,11,7,4.3,5
+Employee,183,M,2020-01-01,2024-01-01,Manager,23,52888,HR,8,11,3.6,1
+Employee,184,F,2020-01-01,2024-01-01,Manager,39,109887,Finance,6,0,4.2,19
+Employee,185,M,2020-01-01,2024-01-01,Senior Manager,32,114399,Finance,8,0,2.1,10
+Employee,186,M,2020-01-01,2024-01-01,Senior Manager,35,109466,IT,12,11,3.8,12
+Employee,187,M,2020-01-01,2024-01-01,Director,45,160827,HR,17,13,2.1,24
+Employee,188,M,2020-01-01,2024-01-01,Director,38,130980,HR,4,4,4.8,15
+Employee,189,F,2020-01-01,2024-01-01,Senior Analyst,45,104990,HR,12,10,3.5,22
+Employee,190,F,2020-01-01,2024-01-01,Senior Analyst,48,114156,Finance,3,4,2.3,24
+Employee,191,F,2020-01-01,2024-01-01,Analyst,30,41216,HR,1,10,2.1,9
+Employee,192,F,2020-01-01,2024-01-01,Director,43,140523,IT,15,11,1.8,20
+Employee,193,F,2020-01-01,2024-01-01,Manager,40,108664,IT,8,0,3.8,17
+Employee,194,F,2020-01-01,2024-01-01,Director,38,128213,Finance,8,5,1.9,17
+Employee,195,F,2020-01-01,2024-01-01,Manager,41,111054,Marketing,5,0,3.4,20
+Employee,196,F,2020-01-01,2024-01-01,Senior Manager,35,103282,Finance,10,4,2.1,12
+Employee,197,F,2020-01-01,2024-01-01,Director,28,103356,Marketing,0,8,3.6,7
+Employee,198,F,2020-01-01,2024-01-01,Senior Manager,25,68244,HR,3,11,4.3,2
+Employee,199,M,2020-01-01,2024-01-01,Senior Analyst,26,48855,Finance,12,13,4.1,3
+Employee,200,F,2020-01-01,2024-01-01,Senior Analyst,41,84875,IT,12,4,4.0,17
+Employee,201,M,2020-01-01,2024-01-01,Analyst,25,41807,HR,12,5,1.8,5
+Employee,202,M,2020-01-01,2024-01-01,Director,40,135552,IT,1,7,1.4,17
+Employee,203,M,2020-01-01,2024-01-01,Senior Manager,46,147889,HR,8,10,3.8,24
+Employee,204,M,2020-01-01,2024-01-01,Manager,37,99620,Finance,7,0,2.5,17
+Employee,205,F,2020-01-01,2024-01-01,Senior Analyst,37,90613,Marketing,6,13,2.7,17
+Employee,206,M,2020-01-01,2024-01-01,Senior Analyst,22,42219,HR,3,1,1.1,2
+Employee,207,F,2020-01-01,2024-01-01,Manager,26,51890,Marketing,17,8,2.0,2
+Employee,208,F,2020-01-01,2024-01-01,Senior Manager,45,122322,HR,2,2,1.1,22
+Employee,209,M,2020-01-01,2024-01-01,Senior Manager,47,139503,IT,5,5,4.5,23
+Employee,210,F,2020-01-01,2024-01-01,Director,28,96233,IT,11,4,2.0,5
+Employee,211,M,2020-01-01,2024-01-01,Director,25,95946,HR,11,10,3.2,1
+Employee,212,M,2020-01-01,2024-01-01,Analyst,25,30000,Marketing,7,1,1.2,1
+Employee,213,F,2020-01-01,2024-01-01,Senior Analyst,41,102366,Finance,0,13,3.7,19
+Employee,214,F,2020-01-01,2024-01-01,Director,26,95066,Finance,3,14,2.3,2
+Employee,215,M,2020-01-01,2024-01-01,Senior Manager,42,131568,IT,10,6,4.6,21
+Employee,216,F,2020-01-01,2024-01-01,Manager,34,89490,Finance,2,3,4.6,12
+Employee,217,F,2020-01-01,2024-01-01,Senior Manager,30,90009,IT,12,0,2.3,6
+Employee,218,F,2020-01-01,2024-01-01,Senior Analyst,43,103809,Finance,16,12,4.6,23
+Employee,219,M,2020-01-01,2024-01-01,Senior Manager,25,83124,HR,9,3,5.0,4
+Employee,220,M,2020-01-01,2024-01-01,Analyst,44,94589,IT,11,5,4.3,23
+Employee,221,F,2020-01-01,2024-01-01,Senior Analyst,32,70127,IT,14,6,4.4,11
+Employee,222,F,2020-01-01,2024-01-01,Manager,46,118317,HR,9,14,2.0,24
+Employee,223,F,2020-01-01,2024-01-01,Analyst,41,72046,IT,13,6,3.3,17
+Employee,224,F,2020-01-01,2024-01-01,Senior Analyst,30,56300,Finance,12,13,1.3,6
+Employee,225,F,2020-01-01,2024-01-01,Manager,44,118945,Finance,4,6,1.4,24
+Employee,226,M,2020-01-01,2024-01-01,Analyst,25,40246,IT,5,2,5.0,5
+Employee,227,F,2020-01-01,2024-01-01,Analyst,41,88065,Finance,1,5,2.3,20
+Employee,228,M,2020-01-01,2024-01-01,Senior Analyst,22,49245,Marketing,16,12,4.0,2
+Employee,229,F,2020-01-01,2024-01-01,Director,28,104347,IT,3,7,4.2,6
+Employee,230,M,2020-01-01,2024-01-01,Analyst,46,99448,HR,13,3,4.4,22
+Employee,231,F,2020-01-01,2024-01-01,Analyst,32,68465,Marketing,9,12,5.0,11
+Employee,232,M,2020-01-01,2024-01-01,Manager,36,107130,IT,2,7,2.0,16
+Employee,233,F,2020-01-01,2024-01-01,Senior Manager,38,105657,HR,2,1,1.2,16
+Employee,234,M,2020-01-01,2024-01-01,Senior Analyst,23,45432,Finance,14,14,2.6,1
+Employee,235,M,2020-01-01,2024-01-01,Senior Analyst,29,54530,HR,5,9,1.5,9
+Employee,236,M,2020-01-01,2024-01-01,Director,30,110380,Marketing,16,8,1.1,6
+Employee,237,M,2020-01-01,2024-01-01,Director,36,140417,Finance,11,8,2.4,16
+Employee,238,M,2020-01-01,2024-01-01,Senior Analyst,24,60871,IT,19,7,4.1,3
+Employee,239,M,2020-01-01,2024-01-01,Director,40,143301,Finance,10,9,3.3,20
+Employee,240,F,2020-01-01,2024-01-01,Manager,26,67193,IT,3,13,2.3,4
+Employee,241,M,2020-01-01,2024-01-01,Senior Analyst,39,96749,IT,5,12,3.6,19
+Employee,242,F,2020-01-01,2024-01-01,Director,27,94268,HR,0,9,1.9,3
+Employee,243,F,2020-01-01,2024-01-01,Senior Analyst,42,98905,HR,19,0,1.1,19
+Employee,244,F,2020-01-01,2024-01-01,Senior Manager,40,135561,HR,15,1,4.1,20
+Employee,245,F,2020-01-01,2024-01-01,Analyst,31,46601,Marketing,14,5,3.5,7
+Employee,246,F,2020-01-01,2024-01-01,Senior Analyst,44,96389,Marketing,16,9,4.0,20
+Employee,247,M,2020-01-01,2024-01-01,Analyst,31,65146,HR,7,4,1.2,9
+Employee,248,M,2020-01-01,2024-01-01,Director,25,89561,Marketing,11,11,4.3,1
+Employee,249,M,2020-01-01,2024-01-01,Analyst,32,43011,Finance,9,13,3.5,8
+Employee,250,F,2020-01-01,2024-01-01,Senior Analyst,31,62418,Finance,14,8,3.3,7
+Employee,251,M,2020-01-01,2024-01-01,Senior Manager,42,125658,Marketing,8,4,3.5,18
+Employee,252,M,2020-01-01,2024-01-01,Director,29,105002,Marketing,1,1,4.5,8
+Employee,253,M,2020-01-01,2024-01-01,Senior Analyst,22,47757,Finance,4,9,3.3,1
+Employee,254,M,2020-01-01,2024-01-01,Director,33,124753,IT,5,3,3.3,11
+Employee,255,M,2020-01-01,2024-01-01,Manager,38,94057,Finance,6,8,5.0,18
+Employee,256,F,2020-01-01,2024-01-01,Analyst,47,94459,Finance,0,0,4.0,23
+Employee,257,M,2020-01-01,2024-01-01,Manager,30,85656,Marketing,6,10,2.8,10
+Employee,258,F,2020-01-01,2024-01-01,Senior Analyst,23,44939,Finance,19,0,3.8,3
+Employee,259,F,2020-01-01,2024-01-01,Senior Manager,29,96508,Marketing,11,11,2.6,7
+Employee,260,F,2020-01-01,2024-01-01,Director,40,140287,Marketing,15,6,1.9,16
+Employee,261,F,2020-01-01,2024-01-01,Analyst,40,72710,HR,15,10,3.4,16
+Employee,262,F,2020-01-01,2024-01-01,Director,43,147130,Finance,10,2,4.7,20
+Employee,263,M,2020-01-01,2024-01-01,Senior Analyst,37,95163,IT,3,9,4.7,17
+Employee,264,M,2020-01-01,2024-01-01,Director,22,88245,HR,12,1,2.4,2
+Employee,265,M,2020-01-01,2024-01-01,Analyst,22,30846,Marketing,6,8,3.1,1
+Employee,266,F,2020-01-01,2024-01-01,Senior Analyst,39,82438,Marketing,3,2,1.8,16
+Employee,267,M,2020-01-01,2024-01-01,Director,33,111186,IT,14,1,5.0,12
+Employee,268,M,2020-01-01,2024-01-01,Senior Manager,26,80343,Marketing,18,11,4.9,5
+Employee,269,F,2020-01-01,2024-01-01,Senior Analyst,26,60391,Finance,8,7,3.6,5
+Employee,270,F,2020-01-01,2024-01-01,Senior Analyst,45,106604,HR,10,9,4.2,23
+Employee,271,F,2020-01-01,2024-01-01,Senior Manager,31,91598,Marketing,7,5,3.9,9
+Employee,272,F,2020-01-01,2024-01-01,Manager,30,88229,Marketing,0,5,3.4,9
+Employee,273,M,2020-01-01,2024-01-01,Analyst,26,43871,IT,7,9,1.2,3
+Employee,274,F,2020-01-01,2024-01-01,Manager,39,111007,Finance,12,10,2.8,19
+Employee,275,F,2020-01-01,2024-01-01,Director,39,128295,Marketing,3,6,3.7,16
+Employee,276,M,2020-01-01,2024-01-01,Senior Manager,40,113454,IT,7,6,3.7,16
+Employee,277,M,2020-01-01,2024-01-01,Manager,25,69272,Marketing,2,10,2.5,3
+Employee,278,F,2020-01-01,2024-01-01,Senior Analyst,40,99742,IT,8,12,4.8,20
+Employee,279,M,2020-01-01,2024-01-01,Director,44,149387,IT,1,14,1.7,24
+Employee,280,F,2020-01-01,2024-01-01,Director,46,158605,Finance,1,5,3.0,22
+Employee,281,F,2020-01-01,2024-01-01,Manager,48,135741,Marketing,12,3,3.8,24
+Employee,282,M,2020-01-01,2024-01-01,Manager,22,51334,Finance,14,10,3.8,1
+Employee,283,M,2020-01-01,2024-01-01,Senior Manager,46,142283,IT,11,8,3.6,24
+Employee,284,F,2020-01-01,2024-01-01,Analyst,42,81035,HR,3,5,2.1,20
+Employee,285,F,2020-01-01,2024-01-01,Manager,34,87463,Marketing,7,3,1.6,11
+Employee,286,F,2020-01-01,2024-01-01,Manager,38,109752,HR,8,11,3.5,17
+Employee,287,M,2020-01-01,2024-01-01,Senior Analyst,29,70126,Marketing,4,2,3.4,8
+Employee,288,F,2020-01-01,2024-01-01,Director,25,98385,Finance,19,3,1.7,4
+Employee,289,F,2020-01-01,2024-01-01,Analyst,27,43367,Finance,17,2,3.8,6
+Employee,290,F,2020-01-01,2024-01-01,Senior Analyst,30,72572,Finance,10,14,2.8,8
+Employee,291,F,2020-01-01,2024-01-01,Senior Manager,42,121703,Finance,14,1,3.7,20
+Employee,292,F,2020-01-01,2024-01-01,Senior Manager,24,82901,Finance,8,13,4.3,3
+Employee,293,M,2020-01-01,2024-01-01,Manager,39,96130,HR,16,4,1.7,16
+Employee,294,F,2020-01-01,2024-01-01,Manager,23,60415,Finance,11,1,1.1,3
+Employee,295,F,2020-01-01,2024-01-01,Senior Manager,38,127625,IT,6,5,4.1,18
+Employee,296,F,2020-01-01,2024-01-01,Manager,37,101091,IT,9,2,3.4,14
+Employee,297,F,2020-01-01,2024-01-01,Analyst,39,80490,HR,9,5,3.8,18
+Employee,298,M,2020-01-01,2024-01-01,Manager,24,58164,Marketing,12,14,4.4,2
+Employee,299,M,2020-01-01,2024-01-01,Director,42,149052,IT,18,10,4.2,22
+Employee,300,M,2020-01-01,2024-01-01,Manager,27,67847,Marketing,10,9,4.8,3
+Employee,301,F,2020-01-01,2024-01-01,Senior Analyst,40,84079,HR,12,8,3.1,16
+Employee,302,F,2020-01-01,2024-01-01,Analyst,32,64746,Marketing,7,0,3.0,9
+Employee,303,M,2020-01-01,2024-01-01,Senior Analyst,25,59970,Marketing,7,5,2.6,4
+Employee,304,M,2020-01-01,2024-01-01,Senior Analyst,21,43287,Marketing,3,8,1.6,1
+Employee,305,M,2020-01-01,2024-01-01,Director,25,91032,Marketing,14,10,3.3,4
+Employee,306,F,2020-01-01,2024-01-01,Analyst,21,30000,HR,10,3,2.1,1
+Employee,307,F,2020-01-01,2024-01-01,Analyst,37,62531,IT,10,10,4.7,14
+Employee,308,M,2020-01-01,2024-01-01,Analyst,44,79027,Finance,0,11,3.3,21
+Employee,309,M,2020-01-01,2024-01-01,Analyst,40,72564,Marketing,16,1,3.4,16
+Employee,310,M,2020-01-01,2024-01-01,Analyst,41,75060,IT,14,12,2.4,20
+Employee,311,F,2020-01-01,2024-01-01,Director,48,154188,IT,19,3,1.2,24
+Employee,312,F,2020-01-01,2024-01-01,Manager,29,80949,HR,5,0,1.1,8
+Employee,313,F,2020-01-01,2024-01-01,Senior Analyst,31,69092,IT,14,2,2.7,7
+Employee,314,M,2020-01-01,2024-01-01,Analyst,25,31565,HR,8,9,1.3,3
+Employee,315,M,2020-01-01,2024-01-01,Manager,39,103708,Marketing,13,8,3.4,17
+Employee,316,F,2020-01-01,2024-01-01,Manager,23,59661,Marketing,17,9,4.5,1
+Employee,317,M,2020-01-01,2024-01-01,Senior Analyst,38,83808,Finance,16,4,4.5,16
+Employee,318,F,2020-01-01,2024-01-01,Director,32,126214,Finance,17,14,3.6,12
+Employee,319,M,2020-01-01,2024-01-01,Senior Manager,41,131029,Finance,4,10,1.8,19
+Employee,320,M,2020-01-01,2024-01-01,Senior Manager,45,136464,IT,19,5,4.5,22
+Employee,321,M,2020-01-01,2024-01-01,Manager,46,132130,Marketing,19,2,4.5,23
+Employee,322,M,2020-01-01,2024-01-01,Senior Analyst,42,105457,HR,8,4,1.8,22
+Employee,323,F,2020-01-01,2024-01-01,Senior Manager,36,110346,Finance,10,10,3.9,14
+Employee,324,M,2020-01-01,2024-01-01,Manager,28,70010,HR,0,7,2.1,6
+Employee,325,F,2020-01-01,2024-01-01,Director,28,99101,HR,17,5,4.2,6
+Employee,326,F,2020-01-01,2024-01-01,Senior Manager,37,111561,Finance,5,3,5.0,13
+Employee,327,F,2020-01-01,2024-01-01,Manager,40,110763,Marketing,1,1,1.1,19
+Employee,328,M,2020-01-01,2024-01-01,Manager,46,121940,Finance,14,13,4.6,22
+Employee,329,F,2020-01-01,2024-01-01,Analyst,29,54543,HR,13,8,3.5,8
+Employee,330,F,2020-01-01,2024-01-01,Director,24,78841,Finance,4,12,4.9,2
+Employee,331,F,2020-01-01,2024-01-01,Analyst,43,84513,HR,5,11,2.9,21
+Employee,332,M,2020-01-01,2024-01-01,Senior Analyst,25,39452,HR,5,0,4.4,1
+Employee,333,M,2020-01-01,2024-01-01,Analyst,39,67621,Finance,17,0,1.2,15
+Employee,334,F,2020-01-01,2024-01-01,Analyst,22,30000,IT,13,12,2.3,1
+Employee,335,M,2020-01-01,2024-01-01,Senior Manager,28,88880,Finance,9,3,1.3,5
+Employee,336,F,2020-01-01,2024-01-01,Manager,37,101849,IT,13,6,4.9,16
+Employee,337,F,2020-01-01,2024-01-01,Director,43,145296,HR,12,0,4.3,19
+Employee,338,M,2020-01-01,2024-01-01,Analyst,28,37965,HR,2,8,4.4,4
+Employee,339,F,2020-01-01,2024-01-01,Director,23,102138,IT,5,3,4.8,3
+Employee,340,M,2020-01-01,2024-01-01,Analyst,41,72384,HR,7,2,1.3,17
+Employee,341,M,2020-01-01,2024-01-01,Senior Analyst,37,94470,IT,11,0,2.5,17
+Employee,342,F,2020-01-01,2024-01-01,Analyst,35,64050,IT,12,9,1.3,12
+Employee,343,M,2020-01-01,2024-01-01,Senior Manager,35,113287,HR,10,3,1.8,14
+Employee,344,M,2020-01-01,2024-01-01,Manager,42,111154,Marketing,11,8,1.9,21
+Employee,345,F,2020-01-01,2024-01-01,Senior Analyst,26,44640,IT,0,12,2.9,6
+Employee,346,F,2020-01-01,2024-01-01,Analyst,24,30000,Finance,16,13,2.1,3
+Employee,347,M,2020-01-01,2024-01-01,Director,33,107106,Finance,15,9,1.4,9
+Employee,348,M,2020-01-01,2024-01-01,Senior Analyst,27,65275,HR,10,5,1.7,5
+Employee,349,F,2020-01-01,2024-01-01,Senior Analyst,44,110942,Marketing,12,5,1.6,24
+Employee,350,M,2020-01-01,2024-01-01,Analyst,38,75370,HR,17,0,4.9,17
+Employee,351,M,2020-01-01,2024-01-01,Senior Analyst,34,80412,Marketing,10,9,4.0,14
+Employee,352,M,2020-01-01,2024-01-01,Director,41,148148,IT,11,1,4.9,21
+Employee,353,M,2020-01-01,2024-01-01,Senior Analyst,25,46760,IT,5,10,2.8,3
+Employee,354,M,2020-01-01,2024-01-01,Director,25,91870,IT,8,5,2.1,1
+Employee,355,M,2020-01-01,2024-01-01,Analyst,40,85228,IT,15,1,4.2,20
+Employee,356,M,2020-01-01,2024-01-01,Manager,42,116693,Finance,3,2,2.3,21
+Employee,357,F,2020-01-01,2024-01-01,Senior Analyst,46,107597,Finance,2,3,2.2,23
+Employee,358,F,2020-01-01,2024-01-01,Manager,21,61810,HR,15,10,1.9,1
+Employee,359,F,2020-01-01,2024-01-01,Director,23,93735,Marketing,11,4,1.5,3
+Employee,360,F,2020-01-01,2024-01-01,Senior Analyst,40,94094,IT,10,14,2.0,18
+Employee,361,F,2020-01-01,2024-01-01,Senior Manager,34,98147,IT,4,8,2.4,10
+Employee,362,M,2020-01-01,2024-01-01,Manager,45,117947,Marketing,17,11,3.7,22
+Employee,363,M,2020-01-01,2024-01-01,Senior Analyst,24,46664,Marketing,18,14,1.3,3
+Employee,364,M,2020-01-01,2024-01-01,Manager,31,85158,HR,5,14,1.8,8
+Employee,365,M,2020-01-01,2024-01-01,Senior Analyst,35,79861,Marketing,17,3,4.2,14
+Employee,366,F,2020-01-01,2024-01-01,Analyst,48,111818,IT,5,12,1.6,24
+Employee,367,M,2020-01-01,2024-01-01,Manager,39,110106,IT,3,10,2.4,18
+Employee,368,M,2020-01-01,2024-01-01,Senior Manager,37,119149,IT,11,8,4.5,15
+Employee,369,F,2020-01-01,2024-01-01,Senior Manager,44,128458,IT,18,10,1.6,22
+Employee,370,M,2020-01-01,2024-01-01,Director,45,152807,IT,1,9,1.3,23
+Employee,371,M,2020-01-01,2024-01-01,Senior Analyst,24,40104,HR,16,2,2.9,2
+Employee,372,F,2020-01-01,2024-01-01,Manager,33,76171,IT,10,7,2.2,10
+Employee,373,M,2020-01-01,2024-01-01,Director,26,94871,HR,10,11,3.3,2
+Employee,374,M,2020-01-01,2024-01-01,Manager,38,101442,IT,15,0,4.2,17
+Employee,375,M,2020-01-01,2024-01-01,Senior Analyst,29,62197,Finance,1,10,1.5,8
+Employee,376,M,2020-01-01,2024-01-01,Senior Manager,23,74052,Finance,1,8,3.3,1
+Employee,377,M,2020-01-01,2024-01-01,Analyst,31,57562,Finance,7,8,3.0,9
+Employee,378,F,2020-01-01,2024-01-01,Senior Manager,31,101396,Finance,12,9,1.6,11
+Employee,379,F,2020-01-01,2024-01-01,Director,46,151986,HR,9,1,3.5,22
+Employee,380,F,2020-01-01,2024-01-01,Analyst,39,73730,HR,7,3,2.1,16
+Employee,381,F,2020-01-01,2024-01-01,Director,28,105199,Marketing,3,12,3.0,7
+Employee,382,F,2020-01-01,2024-01-01,Senior Analyst,30,70511,IT,14,7,1.3,10
+Employee,383,F,2020-01-01,2024-01-01,Analyst,43,83703,Finance,0,6,2.8,23
+Employee,384,M,2020-01-01,2024-01-01,Director,24,86793,HR,10,0,2.2,3
+Employee,385,F,2020-01-01,2024-01-01,Senior Analyst,41,100027,IT,6,4,4.3,18
+Employee,386,F,2020-01-01,2024-01-01,Senior Manager,44,137532,IT,16,6,1.2,24
+Employee,387,M,2020-01-01,2024-01-01,Senior Analyst,33,80170,HR,19,14,2.7,13
+Employee,388,M,2020-01-01,2024-01-01,Manager,31,76265,Finance,17,3,2.8,7
+Employee,389,F,2020-01-01,2024-01-01,Senior Analyst,27,54177,Marketing,11,14,3.9,4
+Employee,390,M,2020-01-01,2024-01-01,Senior Analyst,33,75857,IT,8,14,3.3,13
+Employee,391,F,2020-01-01,2024-01-01,Manager,43,122546,Marketing,4,0,3.7,20
+Employee,392,M,2020-01-01,2024-01-01,Director,22,97649,Finance,9,8,4.1,1
+Employee,393,F,2020-01-01,2024-01-01,Director,30,113500,Finance,3,13,4.4,8
+Employee,394,M,2020-01-01,2024-01-01,Senior Analyst,34,87612,Marketing,4,4,2.3,14
+Employee,395,M,2020-01-01,2024-01-01,Manager,40,98588,Finance,9,10,3.2,16
+Employee,396,F,2020-01-01,2024-01-01,Manager,35,91019,IT,10,1,4.4,14
+Employee,397,F,2020-01-01,2024-01-01,Senior Manager,35,103801,Marketing,9,7,5.0,12
+Employee,398,F,2020-01-01,2024-01-01,Director,40,139131,Finance,7,10,4.6,19
+Employee,399,F,2020-01-01,2024-01-01,Analyst,43,83136,Marketing,1,12,2.5,23
+Employee,400,F,2020-01-01,2024-01-01,Director,38,133017,IT,7,1,1.8,15
+Employee,401,M,2020-01-01,2024-01-01,Director,24,97260,Finance,15,2,3.0,2
+Employee,402,F,2020-01-01,2024-01-01,Senior Manager,23,72705,IT,4,13,4.0,2
+Employee,403,F,2020-01-01,2024-01-01,Analyst,43,99219,Finance,2,9,3.0,23
+Employee,404,M,2020-01-01,2024-01-01,Senior Manager,46,145009,HR,11,0,2.9,22
+Employee,405,M,2020-01-01,2024-01-01,Analyst,42,80025,Finance,12,10,4.4,19
+Employee,406,F,2020-01-01,2024-01-01,Senior Analyst,43,99034,Marketing,12,1,2.4,22
+Employee,407,M,2020-01-01,2024-01-01,Analyst,43,88835,Finance,9,13,4.4,22
+Employee,408,M,2020-01-01,2024-01-01,Senior Manager,39,127634,IT,3,6,2.6,17
+Employee,409,F,2020-01-01,2024-01-01,Director,42,144235,IT,8,9,2.3,20
+Employee,410,M,2020-01-01,2024-01-01,Analyst,34,56695,Finance,1,1,2.8,10
+Employee,411,M,2020-01-01,2024-01-01,Analyst,30,43708,Marketing,18,5,4.0,6
+Employee,412,F,2020-01-01,2024-01-01,Manager,35,96722,HR,0,14,1.5,15
+Employee,413,F,2020-01-01,2024-01-01,Director,42,148895,Marketing,6,2,1.8,22
+Employee,414,M,2020-01-01,2024-01-01,Senior Analyst,35,76694,HR,16,3,4.8,11
+Employee,415,M,2020-01-01,2024-01-01,Senior Manager,29,92084,IT,2,10,1.7,5
+Employee,416,F,2020-01-01,2024-01-01,Senior Analyst,24,51499,Marketing,19,14,3.3,1
+Employee,417,M,2020-01-01,2024-01-01,Director,30,101709,HR,19,12,3.3,8
+Employee,418,M,2020-01-01,2024-01-01,Analyst,41,93165,Finance,2,7,3.0,21
+Employee,419,M,2020-01-01,2024-01-01,Analyst,34,66935,IT,2,13,3.6,12
+Employee,420,F,2020-01-01,2024-01-01,Director,34,113064,Finance,16,2,1.9,12
+Employee,421,M,2020-01-01,2024-01-01,Analyst,29,49433,IT,6,9,3.2,5
+Employee,422,M,2020-01-01,2024-01-01,Analyst,30,55194,Marketing,13,5,2.5,7
+Employee,423,F,2020-01-01,2024-01-01,Analyst,25,53125,Marketing,16,0,3.6,4
+Employee,424,M,2020-01-01,2024-01-01,Senior Manager,29,87154,IT,17,6,1.6,6
+Employee,425,M,2020-01-01,2024-01-01,Senior Manager,36,111182,IT,12,7,3.3,13
+Employee,426,F,2020-01-01,2024-01-01,Manager,42,123134,IT,19,10,1.7,20
+Employee,427,F,2020-01-01,2024-01-01,Senior Analyst,38,88989,Marketing,19,13,2.1,15
+Employee,428,F,2020-01-01,2024-01-01,Director,23,100631,HR,17,7,1.9,3
+Employee,429,F,2020-01-01,2024-01-01,Director,45,157920,Finance,3,2,1.7,23
+Employee,430,M,2020-01-01,2024-01-01,Director,28,108469,Finance,0,13,4.3,8
+Employee,431,M,2020-01-01,2024-01-01,Manager,41,121109,Marketing,17,9,2.1,20
+Employee,432,F,2020-01-01,2024-01-01,Senior Manager,38,114643,Finance,0,0,4.7,16
+Employee,433,F,2020-01-01,2024-01-01,Manager,34,94029,IT,12,8,4.9,13
+Employee,434,M,2020-01-01,2024-01-01,Director,40,146818,HR,19,12,3.3,18
+Employee,435,F,2020-01-01,2024-01-01,Senior Analyst,34,67748,Finance,19,5,1.6,10
+Employee,436,M,2020-01-01,2024-01-01,Analyst,42,76612,HR,9,10,2.5,19
+Employee,437,F,2020-01-01,2024-01-01,Senior Manager,41,121358,IT,10,8,4.2,17
+Employee,438,M,2020-01-01,2024-01-01,Senior Manager,45,142969,Finance,8,6,2.5,24
+Employee,439,F,2020-01-01,2024-01-01,Manager,42,111624,Marketing,8,0,1.3,19
+Employee,440,F,2020-01-01,2024-01-01,Senior Manager,45,133919,HR,4,11,3.2,23
+Employee,441,M,2020-01-01,2024-01-01,Director,28,94096,IT,0,11,4.4,5
+Employee,442,F,2020-01-01,2024-01-01,Director,41,150902,HR,16,0,4.2,21
+Employee,443,M,2020-01-01,2024-01-01,Manager,46,123720,Finance,1,5,1.7,23
+Employee,444,M,2020-01-01,2024-01-01,Director,29,118960,Finance,12,4,3.7,9
+Employee,445,M,2020-01-01,2024-01-01,Senior Analyst,35,80405,Marketing,8,8,1.9,12
+Employee,446,M,2020-01-01,2024-01-01,Manager,41,116901,IT,3,1,1.9,21
+Employee,447,M,2020-01-01,2024-01-01,Senior Analyst,22,39415,IT,4,7,4.5,1
+Employee,448,F,2020-01-01,2024-01-01,Analyst,25,30000,Marketing,10,10,2.0,1
+Employee,449,F,2020-01-01,2024-01-01,Senior Analyst,37,83554,Marketing,18,4,2.1,15
+Employee,450,M,2020-01-01,2024-01-01,Analyst,25,43562,IT,2,1,1.0,2
+Employee,451,F,2020-01-01,2024-01-01,Analyst,46,91305,HR,11,12,4.5,22
+Employee,452,M,2020-01-01,2024-01-01,Senior Analyst,38,89468,HR,18,9,4.2,16
+Employee,453,F,2020-01-01,2024-01-01,Manager,30,77327,Marketing,18,10,3.5,8
+Employee,454,F,2020-01-01,2024-01-01,Director,33,128451,HR,12,10,4.0,13
+Employee,455,F,2020-01-01,2024-01-01,Director,42,139895,IT,6,11,1.6,21
+Employee,456,F,2020-01-01,2024-01-01,Analyst,22,30000,Finance,14,5,2.8,1
+Employee,457,M,2020-01-01,2024-01-01,Analyst,40,70912,Finance,6,9,2.4,16
+Employee,458,M,2020-01-01,2024-01-01,Manager,28,79766,HR,7,7,1.4,7
+Employee,459,F,2020-01-01,2024-01-01,Senior Manager,28,82531,Marketing,4,3,2.9,5
+Employee,460,F,2020-01-01,2024-01-01,Senior Analyst,43,93479,Marketing,13,1,4.7,22
+Employee,461,M,2020-01-01,2024-01-01,Analyst,47,96847,Marketing,3,11,1.2,23
+Employee,462,F,2020-01-01,2024-01-01,Director,24,93805,Marketing,9,10,2.2,3
+Employee,463,M,2020-01-01,2024-01-01,Manager,35,92104,Marketing,19,4,1.8,12
+Employee,464,M,2020-01-01,2024-01-01,Senior Analyst,36,85808,HR,14,14,2.0,16
+Employee,465,M,2020-01-01,2024-01-01,Manager,43,108443,Finance,17,11,4.6,19
+Employee,466,F,2020-01-01,2024-01-01,Senior Analyst,25,55865,Finance,19,1,2.9,5
+Employee,467,M,2020-01-01,2024-01-01,Senior Analyst,42,109411,HR,12,1,2.9,22
+Employee,468,F,2020-01-01,2024-01-01,Analyst,34,60604,Marketing,7,14,4.0,14
+Employee,469,M,2020-01-01,2024-01-01,Manager,27,71300,HR,8,5,1.6,5
+Employee,470,F,2020-01-01,2024-01-01,Manager,37,99683,Finance,15,10,2.9,15
+Employee,471,F,2020-01-01,2024-01-01,Director,37,151354,IT,18,9,2.7,17
+Employee,472,F,2020-01-01,2024-01-01,Director,38,131725,HR,15,8,3.4,14
+Employee,473,M,2020-01-01,2024-01-01,Analyst,43,83282,Marketing,6,12,5.0,20
+Employee,474,M,2020-01-01,2024-01-01,Analyst,28,39518,Finance,13,3,4.1,5
+Employee,475,F,2020-01-01,2024-01-01,Senior Manager,33,99116,Finance,13,5,2.6,12
+Employee,476,F,2020-01-01,2024-01-01,Director,40,138589,Finance,3,6,4.3,16
+Employee,477,F,2020-01-01,2024-01-01,Senior Analyst,38,98377,Finance,14,12,1.7,16
+Employee,478,M,2020-01-01,2024-01-01,Manager,41,124398,Marketing,2,10,1.1,21
+Employee,479,M,2020-01-01,2024-01-01,Analyst,28,52674,IT,4,5,1.8,7
+Employee,480,M,2020-01-01,2024-01-01,Manager,27,65082,Finance,0,7,2.4,4
+Employee,481,M,2020-01-01,2024-01-01,Manager,23,52495,HR,2,3,3.0,1
+Employee,482,F,2020-01-01,2024-01-01,Senior Manager,27,79998,IT,14,11,3.5,5
+Employee,483,F,2020-01-01,2024-01-01,Director,43,140968,Finance,7,14,4.6,23
+Employee,484,M,2020-01-01,2024-01-01,Analyst,33,55469,IT,3,0,3.0,10
+Employee,485,M,2020-01-01,2024-01-01,Manager,46,122485,HR,1,6,3.0,22
+Employee,486,F,2020-01-01,2024-01-01,Analyst,27,46546,Finance,9,2,1.2,5
+Employee,487,M,2020-01-01,2024-01-01,Senior Analyst,24,59140,HR,3,13,1.1,4
+Employee,488,M,2020-01-01,2024-01-01,Senior Manager,26,77499,Marketing,2,5,3.2,2
+Employee,489,M,2020-01-01,2024-01-01,Senior Analyst,43,103729,Finance,1,1,2.8,20
+Employee,490,M,2020-01-01,2024-01-01,Analyst,32,54678,Finance,16,8,4.4,10
+Employee,491,M,2020-01-01,2024-01-01,Analyst,43,84269,Finance,19,0,1.6,19
+Employee,492,M,2020-01-01,2024-01-01,Director,25,94642,Finance,12,5,1.1,1
+Employee,493,F,2020-01-01,2024-01-01,Manager,48,123128,Marketing,4,5,2.8,24
+Employee,494,M,2020-01-01,2024-01-01,Manager,27,68404,Finance,8,4,1.9,5
+Employee,495,M,2020-01-01,2024-01-01,Senior Analyst,35,76908,IT,5,12,1.2,13
+Employee,496,F,2020-01-01,2024-01-01,Senior Manager,25,89431,Finance,4,4,3.9,4
+Employee,497,F,2020-01-01,2024-01-01,Manager,39,101536,Marketing,9,0,1.4,16
+Employee,498,F,2020-01-01,2024-01-01,Director,44,153667,Finance,7,9,3.4,24
+Employee,499,M,2020-01-01,2024-01-01,Senior Analyst,40,88226,IT,6,11,2.1,16
