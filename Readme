@@ -37,17 +37,17 @@ Salary-Prediction-Advanced/
 - **Source:** Salary Prediction of Data Professions
 - **Size:** 500 samples × 9 features (after cleaning)
 
-| Feature | Description | Correlation with Salary |
-|---|---|---|
-| YEARS EXPERIENCE | Years of work experience | 0.70 ✅ strongest |
-| AGE | Employee age | 0.69 |
-| DESIGNATION | Job role | 0.21 |
-| RATINGS | Performance rating | 0.02 |
-| UNIT | Department | -0.04 |
-| LEAVES USED | Leaves used | -0.05 |
-| LEAVES REMAINING | Leaves remaining | -0.08 |
-| SEX | Gender | -0.10 |
-| **SALARY** | **Target variable** | — |
+| Feature | Description |
+|---|---|
+| YEARS EXPERIENCE | Years of work experience |
+| AGE | Employee age |
+| DESIGNATION | Job role |
+| RATINGS | Performance rating |
+| UNIT | Department |
+| LEAVES USED | Leaves used |
+| LEAVES REMAINING | Leaves remaining |
+| SEX | Gender |
+| **SALARY** | **Target — Annual salary** |
 
 ---
 
@@ -85,10 +85,10 @@ python salary_prediction_advanced.py
 
 ## 📈 Results
 
-| Model | RMSE | R² Score |
+| Metric | Single Feature | Multiple Features |
 |---|---|---|
-| Single Feature (Experience only) | 21,679.43 | 0.5161 |
-| Multiple Features (all columns) | 21,291.54 | 0.5332 |
+| RMSE | 21,679.43 | 21,291.54 |
+| R² Score | 0.5161 | 0.5332 |
 
 ✅ **Multiple Feature model performed better on both metrics!**
 
@@ -112,17 +112,6 @@ python salary_prediction_advanced.py
 | `feature_correlation.png` | Horizontal bar chart of each feature's correlation with salary |
 | `model_comparison_detailed.png` | Side-by-side actual vs predicted scatter plots for both models |
 | `metrics_comparison.png` | R² and RMSE bar chart comparison |
-
----
-
-## 🆚 Project 2 vs Project 3
-
-| Feature | Project 2 | Project 3 |
-|---|---|---|
-| Feature Scaling | ❌ No | ✅ StandardScaler |
-| EDA Plots | 3 basic plots | 2 advanced plots |
-| Model Comparison | 1 bar chart | 2 detailed charts |
-| Scaler saved | ❌ No | ✅ Yes |
 
 ---
 
